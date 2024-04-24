@@ -6,4 +6,4 @@ resources:
 - route.yaml
 images:
 - name: myharbor.apps.211-34-231-93.nip.io/mvp/mvp_ppon_sub_backend
-  newTag: "20240424021146"
+  newTag: "20240424061552"
