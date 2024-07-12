@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: pponsub
-        image: myharbor.apps.211-34-231-93.nip.io/mvp/mvp_ppon_sub_backend
+        image: ghcr.io/azure-poc/mvp_ppon_sub_backend
         #image: ghcr.io/cloudnative-mvp1/mvp_pponsub_backend:v1
         imagePullPolicy: Always
         ports:
